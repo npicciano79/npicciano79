@@ -10,6 +10,8 @@
   </div>
   <h1>Hi, my name is Nick</h1>
   </div>
+  
+  ###About Me: 
 
 
 
