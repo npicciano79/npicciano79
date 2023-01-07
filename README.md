@@ -4,10 +4,11 @@
   <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="480" alt='simpsons gif'/>
   <div id='linkedin'>
     <a href='https://www.linkedin.com/in/npicciano79/'>
+      <br>
       <img src='https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin badge'/>
   
   </div>
-  <h1>Hi my name is Nick</h1>
+  <h1>Hi, my name is Nick</h1>
   </div>
 
 
