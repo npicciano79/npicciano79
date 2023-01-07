@@ -11,7 +11,7 @@
   <h1>Hi, my name is Nick</h1>
   </div>
   
-  ###About Me: 
+  <h3>About Me:</h3>
 
 
 
