@@ -1,4 +1,4 @@
-
+### Hi there 👋
 
 <div id='header' align='center'>
   <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="480" alt='simpsons gif'/>
@@ -8,7 +8,7 @@
       <img src='https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin badge'/>
   
   </div>
-  <h1>### Hi, there 👋 my name is Nick</h1>
+  <h1>Hi, my name is Nick</h1>
   </div>
   
   <h3>About Me:</h3>
