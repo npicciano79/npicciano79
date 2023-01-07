@@ -12,7 +12,9 @@
   </div>
   
   <h3>About Me:</h3>
-  I am a front end developer, mathematics teacher, husband, and father.  I have a BS is Computer Science with a Minor in Mathematics, as well as Masters degrees in Education and Education Leadership.  I have 2 decades of experience in mathematics education and educational leadership, first in Connecticut, then in St. Augustine, Fl. where my family relocated to in 2017.  As an educator I've served in leadership roles, mentoring new staff members, co-charing the schools accreditation, spearheading the implementation of Google Tools, and designing/leading professional development on classroom website design and technological implementations in the classroom.  In 2020, I started a business, First Coast Math Clinic LLC., which has provided mathematics support and enrichment for over 50 students in grades elementary through college.  
+  I am a front end developer, mathematics teacher, husband, and father.  I have a BS is Computer Science with a Minor in Mathematics, as well as Masters degrees in Education and Education Leadership.  I have 2 decades of experience in mathematics education and educational leadership, first in Connecticut, then in St. Augustine, Fl. where my family relocated to in 2017.  As an educator I've served in leadership roles, mentoring new staff members, co-charing the schools accreditation, spearheading the implementation of Google Tools, and designing/leading professional development on classroom website design and technological implementations in the classroom.  
+<br>
+ In 2020, I started a business, First Coast Math Clinic LLC., which has provided mathematics support and enrichment for over 50 students in grades elementary through college.  
 
 
 
