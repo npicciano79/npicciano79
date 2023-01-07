@@ -18,7 +18,8 @@
 <br><br>
 During the beginning of the pandemic, in 2020, I identified the immerging need for educational support through a distance learning platform and founded First Coast Math Clinic LLC. (FCMC).  FCMC is an online tutoring company, which since late 2020 has provided mathematics support and enrichment for over 100 students.  
 <br><br>
- In 2020, I founded, First Coast Math Clinic LLC., an online tutoring company, which has provided mathematics support and enrichment for over 50 students in grades elementary through college.  Similtaniously, I begain re-engaging with coding and software development.  
+ In 2020, I founded, First Coast Math Clinic LLC., an online tutoring company, which has provided mathematics support and enrichment for over 50 students in grades elementary through college.  While I experienced a great deal of success, my passion for coding and desire to learn and improve my programming skills was constant.  I decided to scale back my tutoring, and spend more time developing and improving relevant coding skills.  I've focused primarily on front-end development, utilzing <a href='https://www.theodinproject.com/'> The Odin Project </a> to learn HTML5, CSS3, Node.JS, Node Package Manager, as well as JavaScript. I'm currently working through the Advanced JavaScript section of The Odin Project, while working on projects that allow me to both develop and demonstrate my skills. I'm interested in using HTML5, CSS3, and JavaScript to build buil rested in building web applications.  
+ <br><br>
 
 
 
