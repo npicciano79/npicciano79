@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div id='header' align='center'>
-  <img src="https://giphy.com/embed/ASd0Ukj0y3qMM" width="480" alt='simpsons gif'/>
+  <img src="https://media.giphy.com/media/X8cjSugfXBhnyTtgth/giphy.gif" width="480" alt='simpsons gif'/>
   <div id='linkedin'>
     <a href='https://www.linkedin.com/in/npicciano79/'>
       <img src='https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin badge'/>
