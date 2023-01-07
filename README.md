@@ -35,12 +35,12 @@ During the beginning of the pandemic, in 2020, I identified the immerging need f
  <br><br>
   <h3>Soft Skills:</h3>
   -Collaboration and team-oriented <br>
-  -Presenting to clients and stakeholders
-  -Problem solving 
-  -Using existing technology to develop solutions
-  -Flexable thinking 
-  -Reliable and dedicated
-  -Leadership
+  -Presenting to clients and stakeholders <br>
+  -Problem solving  <br>
+  -Using existing technology to develop solutions <br>
+  -Flexable thinking  <br>
+  -Reliable and dedicated <br>
+  -Leadership <br>
     
 
 
