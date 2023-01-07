@@ -21,6 +21,8 @@ During the beginning of the pandemic, in 2020, I identified the immerging need f
  In 2020, I founded, First Coast Math Clinic LLC., an online tutoring company, which has provided mathematics support and enrichment for over 50 students in grades elementary through college.  While I experienced a great deal of success, my passion for coding and desire to learn and improve my programming skills was constant.  I decided to scale back my tutoring, and spend more time developing and improving relevant coding skills.  I've focused primarily on front-end development, utilzing <a href='https://www.theodinproject.com/'> The Odin Project </a> to learn HTML5, CSS3, Node.JS, Node Package Manager, as well as JavaScript. I'm currently working through the Advanced JavaScript section of The Odin Project, while working on projects that allow me to both develop and demonstrate my skills. I'm interested in using HTML5, CSS3, and JavaScript to build buil rested in building web applications.  
  <br><br>
   <h3> Language and Tools:</h3>
+  <div align='center'>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
 
 
 <!--
