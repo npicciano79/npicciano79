@@ -32,7 +32,7 @@ During the beginning of the pandemic, in 2020, I identified the immerging need f
     <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   </div>
- ---
+
  <br><br>
   <h3>Soft Skills:</h3>
   -Collaboration and team-oriented <br>
@@ -42,8 +42,10 @@ During the beginning of the pandemic, in 2020, I identified the immerging need f
   -Flexable thinking  <br>
   -Reliable and dedicated <br>
   -Leadership <br>
+  
+  <br><br>
     
----
+
 
 <!--
 **npicciano79/npicciano79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
