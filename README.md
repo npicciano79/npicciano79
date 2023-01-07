@@ -12,6 +12,7 @@
   </div>
   
   <h3>About Me:</h3>
+  I am a front end developer, mathematics teacher, husband, and father.  I have a BS is Computer Science with a Minor in Mathematics, as well as Masters degrees in Education and Education Leadership.  I have 2 decades of experience in mathematics education and educational leadership, first in Connecticut, then in St. Augustine, Fl. where my family relocated to in 2017.  
 
 
 
